@@ -1,4 +1,4 @@
-We make use of [Pelican](http://getpelican.com) to produce this website.
+We make use of [Pelican](http://getpelican.com) to produce [dacbarbos.github.io](http://dacbarbos.github.io) website.
 [Pelican License](https://github.com/pelican/pelican/blob/master/pelican/copying.txt)
 
 Copyright (C) 2015 DACBARBOS®
