@@ -1,8 +1,8 @@
 /* TEAM */
     Administrator: Paul Grecu
     E-mail: paul.grecu () wot ! ro
-    Twitter: @dacbarbos
-    From: Constanta, Romania
+    Skype: dacbarbos
+    Made in Romania
 
 /* SITE */
     Last update:2015
