@@ -1,0 +1,12 @@
+/* TEAM */
+    Administrator: Paul Grecu
+    Email: paul.grecu () wot ! ro
+    Skype: dacbarbos
+    Made in Romania
+
+/* SITE */
+    Last update: 2015
+    Language: English
+    Doctype: HTML
+    Tools: Pelican
+    IDE: Atom
