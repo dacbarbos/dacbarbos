@@ -5,7 +5,7 @@
     Made in Romania
 
 /* SITE */
-    Last update: 2015
+    Last update: 2016
     Language: English
     Doctype: HTML
     Tools: Pelican
