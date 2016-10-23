@@ -1,5 +1,5 @@
 /* TEAM */
-    Administrator: Paul Grecu
+    Administrator: Paul George Grecu
     Email: paul.grecu () wot ! ro
     Skype: dacbarbos
     Made in Romania
