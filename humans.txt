@@ -1,11 +1,11 @@
 /* TEAM */
-    Administrator: Paul George Grecu
+    Admin: Paul George Grecu
     Email: paul.grecu () wot ! ro
     Skype: dacbarbos
     Made in Romania
 
 /* SITE */
-    Last update: 2016
+    Last update: 2018
     Language: English
     Doctype: HTML
     Tools: Pelican

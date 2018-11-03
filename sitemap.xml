@@ -5,42 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2016-10-23T21:46:40-00:00</lastmod>
+<lastmod>2018-11-03T05:20:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2016-10-23T21:46:40-00:00</lastmod>
+<lastmod>2018-11-03T05:20:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2016-10-23T21:46:40-00:00</lastmod>
+<lastmod>2018-11-03T05:20:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2016-10-23T21:46:40-00:00</lastmod>
+<lastmod>2018-11-03T05:20:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/about.html</loc>
-<lastmod>2016-10-23T21:37:08+02:00</lastmod>
+<lastmod>2018-11-03T03:59:37+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/author.html</loc>
-<lastmod>2016-01-02T23:27:30+01:00</lastmod>
+<lastmod>2018-11-03T04:01:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -48,6 +48,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/pages/info.html</loc>
 <lastmod>2016-01-02T23:27:41+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/google-next-step.html</loc>
+<lastmod>2018-11-03T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -82,14 +89,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/media.html</loc>
-<lastmod>2016-01-02T00:00:00+00:58</lastmod>
+<lastmod>2018-11-03T00:00:00+00:58</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/author/dacbarbos.html</loc>
-<lastmod>2016-01-02T00:00:00+00:58</lastmod>
+<lastmod>2018-11-03T00:00:00+00:58</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
